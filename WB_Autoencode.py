@@ -1,4 +1,4 @@
-#https://github.com/therealcyberlord/tensorflow_keras_color_images_denoiser/blob/master/better_denoiser.ipynb
+
 
 import numpy as np
 import matplotlib.pyplot as plt
